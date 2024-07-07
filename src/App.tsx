@@ -1,10 +1,8 @@
-import './App.css'
-
 function App() {
 
   return (
     <>
-      Заказ контейнеров
+    <h1 className='text-3xl font-bold'>Заказ контейнеров</h1>
     </>
   )
 }
